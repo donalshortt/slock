@@ -21,4 +21,4 @@ static const char * message = "Enter password to unlock";
 static const char * text_color = "#abb2bf";
 
 /* text size (must be a valid size) */
-static const char * text_size = "fixed";
+static const char * text_size = "-adobe-courier-medium-r-normal--60-0-0-0-m-0-iso8859-1";
